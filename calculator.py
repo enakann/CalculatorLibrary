@@ -13,7 +13,7 @@ class Sample2:
 
     def method1(self):
         """
-        This is a long line to generate error sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+        This is a long lin to generate error sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
         :return:
         """
         pass
