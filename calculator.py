@@ -20,7 +20,7 @@ class Sample2:
 
     def geta(self):
         a = 10
-        return self.a * a
+        return self.a* a
 
 
 def add(first_term, second_term):
