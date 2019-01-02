@@ -13,21 +13,23 @@ class Sample2:
 
     def method1(self):
         """
-        This is a long lin to generate error sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
+        This is a long line to generate error sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
         :return:
         """
         pass
 
     def geta(self):
         a = 10
-        return self.a* a
+        return self.a * a
 
 
 def add(first_term, second_term):
+    """add"""
     return first_term + second_term
 
 
 def subtract(first_term, second_term):
+    """subtract"""
     return first_term - second_term
 
 
