@@ -1,7 +1,7 @@
 """
 Unit tests for the calculator library
 """
-import calculator
+from . import calculator
 
 
 class TestCalculator:
