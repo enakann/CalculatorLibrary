@@ -22,6 +22,9 @@ class Sample2:
         a = 10
         return self.a*a
 
+    def getb(self):
+        pass
+
 
 def add(first_term, second_term):
     return first_term + second_term
