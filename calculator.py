@@ -21,6 +21,9 @@ class Sample2:
     def geta(self):
         a = 10
         return self.a*a
+    def getb(self):
+        b=0
+        return b
 
 
 def add(first_term, second_term):
