@@ -32,4 +32,4 @@ def subtract(first_term, second_term):
 
 
 if __name__ == '__main__':
-    print("cacluator is  run")
+    print("cacluator is run")
